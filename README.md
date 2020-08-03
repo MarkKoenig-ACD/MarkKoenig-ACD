@@ -3,9 +3,9 @@
 ## I'm a Husband, Father, and Developer!
 - 🔭 I’m currently working on a Java Course!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to be a better software engineer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+  
 
 ### Connect with me:
 
