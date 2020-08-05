@@ -3,8 +3,8 @@
 ## I'm a Husband, Father, and Developer!
 - 🔭 I’m currently working on a Java Course!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to be a better software engineer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to be a better software engineer by continuing my education with LearnKey(thanks to the VA) and Pluralsight(thanks ACD Direct)! 
+- 🥅 2020 Goals: Contribute more to work projects
   
 
 ### Connect with me:
